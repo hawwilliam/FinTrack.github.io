@@ -1,0 +1,18 @@
+{
+  "name": "FinTrack Pro 智慧記帳",
+  "short_name": "FinTrack",
+  "description": "個人收支、分期攤提、四大視覺化財報與 LINE Pay 自動入帳",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2830/2830284.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
